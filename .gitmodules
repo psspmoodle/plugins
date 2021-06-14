@@ -21,3 +21,6 @@
 [submodule "mod/hvp"]
 	path = mod/hvp
 	url = https://github.com/h5p/moodle-mod_hvp.git
+[submodule "availability/condition/coursecompleted"]
+	path = availability/condition/coursecompleted
+	url = https://github.com/ewallah/moodle-availability_coursecompleted.git
