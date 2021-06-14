@@ -1,0 +1,3 @@
+[submodule "theme/boostchild"]
+	path = theme/boostchild
+	url = https://gitlab.com/matt.donnelly/moodle-theme_boostchild
