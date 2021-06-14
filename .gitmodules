@@ -27,3 +27,6 @@
 [submodule "local/group_by_feedback"]
 	path = local/group_by_feedback
 	url = https://gitlab.com/matt.donnelly/moodle-local_group_by_feedback
+[submodule "local/autogroup"]
+	path = local/autogroup
+	url = https://gitlab.com/artem-zaloga/moodle-local_autogroup.git
