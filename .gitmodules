@@ -4,3 +4,7 @@
 [submodule "course/format/topics_advanced"]
 	path = course/format/topics_advanced
 	url = https://gitlab.com/matt.donnelly/moodle-format_topics_advanced
+[submodule "mod/questionnaire"]
+	path = mod/questionnaire
+	url = https://github.com/PoetOS/moodle-mod_questionnaire.git
+	branch = MOODLE_37_STABLE
