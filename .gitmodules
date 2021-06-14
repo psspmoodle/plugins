@@ -30,3 +30,6 @@
 [submodule "local/autogroup"]
 	path = local/autogroup
 	url = https://gitlab.com/artem-zaloga/moodle-local_autogroup.git
+[submodule "filter/check_available_complete"]
+	path = filter/check_available_complete
+	url = https://gitlab.com/matt.donnelly/moodle-filter_check_available_complete.git
