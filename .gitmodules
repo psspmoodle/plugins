@@ -18,3 +18,6 @@
 [submodule "lib/editor/atto/plugins/snippet"]
 	path = lib/editor/atto/plugins/snippet
 	url = https://github.com/justinhunt/moodle-atto_snippet.git
+[submodule "mod/hvp"]
+	path = mod/hvp
+	url = https://github.com/h5p/moodle-mod_hvp.git
