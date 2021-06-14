@@ -11,3 +11,7 @@
 [submodule "mod/journal"]
 	path = mod/journal
 	url = https://github.com/elearningsoftware/moodle-mod_journal.git
+[submodule "mod/customcert"]
+	path = mod/customcert
+	url = https://github.com/mdjnelson/moodle-mod_customcert.git
+	branch = MOODLE_37_STABLE
