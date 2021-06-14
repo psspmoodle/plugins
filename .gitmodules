@@ -33,3 +33,6 @@
 [submodule "filter/check_available_complete"]
 	path = filter/check_available_complete
 	url = https://gitlab.com/matt.donnelly/moodle-filter_check_available_complete.git
+[submodule "local/filter_check_available_complete_restore"]
+	path = local/filter_check_available_complete_restore
+	url = https://gitlab.com/matt.donnelly/moodle-local_filter_check_available_complete_restore.git
