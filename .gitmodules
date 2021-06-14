@@ -36,3 +36,6 @@
 [submodule "local/filter_check_available_complete_restore"]
 	path = local/filter_check_available_complete_restore
 	url = https://gitlab.com/matt.donnelly/moodle-local_filter_check_available_complete_restore.git
+[submodule "local/cohort_welcome"]
+	path = local/cohort_welcome
+	url = https://gitlab.com/matt.donnelly/moodle-local_cohort_welcome.git
