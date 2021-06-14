@@ -15,3 +15,6 @@
 	path = mod/customcert
 	url = https://github.com/mdjnelson/moodle-mod_customcert.git
 	branch = MOODLE_37_STABLE
+[submodule "lib/editor/atto/plugins/snippet"]
+	path = lib/editor/atto/plugins/snippet
+	url = https://github.com/justinhunt/moodle-atto_snippet.git
