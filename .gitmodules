@@ -36,3 +36,6 @@
 [submodule "local/cohort_welcome"]
 	path = local/cohort_welcome
 	url = https://gitlab.com/matt.donnelly/moodle-local_cohort_welcome.git
+[submodule "availability/condition/coursecompleted"]
+	path = availability/condition/coursecompleted
+	url = https://github.com/ewallah/moodle-availability_coursecompleted.git
