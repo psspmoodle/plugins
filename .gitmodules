@@ -39,3 +39,12 @@
 [submodule "availability/condition/coursecompleted"]
 	path = availability/condition/coursecompleted
 	url = https://github.com/ewallah/moodle-availability_coursecompleted.git
+[submodule "filter/vuecomponents"]
+	path = filter/vuecomponents
+	url = https://gitlab.com/artem-zaloga/moodle-local_vuecomponents.git
+[submodule "mod/scene"]
+	path = mod/scene
+	url = https://gitlab.com/matt.donnelly/moodle-mod_scene
+[submodule "report/customsql"]
+	path = report/customsql
+	url = https://github.com/moodleou/moodle-report_customsql
