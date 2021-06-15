@@ -21,9 +21,6 @@
 [submodule "mod/hvp"]
 	path = mod/hvp
 	url = https://github.com/h5p/moodle-mod_hvp.git
-[submodule "availability/condition/coursecompleted"]
-	path = availability/condition/coursecompleted
-	url = https://github.com/ewallah/moodle-availability_coursecompleted.git
 [submodule "local/group_by_feedback"]
 	path = local/group_by_feedback
 	url = https://gitlab.com/matt.donnelly/moodle-local_group_by_feedback
